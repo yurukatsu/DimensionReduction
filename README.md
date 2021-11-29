@@ -1,4 +1,4 @@
-# How to reduce dimension?
+# How to reduce dimension
 
 ## What is for this repository being?
 
