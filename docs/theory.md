@@ -11,6 +11,7 @@ MDSは距離行列の成分が距離の基本公理を満たすか否かで二�
 ## 
 
 ## 参考文献
+https://www.jstage.jst.go.jp/article/jje1965/13/4/13_4_137/_pdf/-char/ja
 
 ---
 
